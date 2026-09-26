@@ -55,10 +55,7 @@ npm start
 ```
 
 You should see: `MongoDB connected` and `Server running on port 5000`.  
-On first run, a default admin is created if missing:
-
-- Email: `admin@worker.com`
-- Password: `admin123`
+On first run, a default admin is created.
 
 ### 3. Frontend (port **3000**)
 
